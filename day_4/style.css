@@ -1,0 +1,19 @@
+table,
+th,
+td {
+    border: 2px solid rgb(8, 8, 8);
+    margin-left: 20px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 3px 20px 3px 20px;
+}
+body{
+    margin: 50px 0px 20px 170px;
+}
+
+h1{
+   margin-left: 56px;
+}
