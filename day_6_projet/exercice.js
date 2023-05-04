@@ -63,7 +63,5 @@ button.onclick = function() {
         cin.style.borderColor = "red";
         cinSpan.style.color = "red";
     }
-
-
 }
  
